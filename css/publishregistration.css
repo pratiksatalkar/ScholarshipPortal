@@ -1,0 +1,102 @@
+/* Add padding to container elements */
+.container {
+  padding: 10px;
+}
+label{
+  margin: 5px 20px 0px 20px;
+}
+a,p{
+  margin: 10px 20px 0px 20px;
+  font-size:15px;
+}
+
+
+/* Full-width input fields */
+  input[type=text], input[type=password],select,input[type=email],input[type=Date],textarea{
+  padding: 10px;
+  width:88%;
+  margin: 5px 20px 8px 20px;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* Add a background color when the inputs get focus */
+ input[type=text]:focus, input[type=password]:focus,select:focus,input[type=email]:focus,input[type=Date]:focus ,textarea:focus{
+  background-color: #ddd;
+  outline: none;
+}
+
+/*inner box*/
+.modal-content {
+  background-color: #fefefe;
+  opacity:0.95;
+  margin: 5% auto 25% auto; 
+  border: 10x solid #888;
+  border-radius: 10px;
+  width:80%;
+}
+  /* Style the horizontal ruler */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 10px;
+}
+
+button {
+  color: black;
+  padding: 14px 20px;
+  margin: 8px 25px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.7px;
+}
+
+button:hover {
+  opacity:1;
+}
+
+h1{
+  color:red;
+  text-align:center;
+  margin:0 auto 0 auto;
+  padding:15px
+}
+
+footer {
+  width:100%;
+  height:20%;
+  padding:15px;
+  text-align: center;
+  background-color: black;
+  opacity:0.6;;
+  color:white;
+  display: block;
+}
+/*login inner box*/
+.box {
+  background-color: #fefefe;
+  opacity:0.95;
+  margin: 5% auto 25% auto; 
+  border: 1px solid #888;
+  border-radius: 10px;
+}
+.cover{
+  position:relative;
+  background-color: #f0bd00;
+  opacity:0.80;
+  width:96%;
+  height:13%;
+  border-radius:10px;
+  margin: 10px 10px 10px 10px;
+}
+.listtoP{
+    padding: 0 15px 0 10px;
+    height: 100%;
+    box-shadow:0 0 10px 1px #A6ACAF; 
+    border:1px solid #A6ACAF;
+    border-radius: 5px;
+    margin-top:40px; 
+    margin-bottom:30px;
+    padding:10px;
+    text-align:left;
+  }

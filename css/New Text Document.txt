@@ -1,0 +1,17 @@
+option{
+    background-color: #eee;
+}
+    select {
+        margin-right: 50px;
+        margin-bottom: 10px;
+        width: 200px;
+        padding: 5px 35px 5px 5px;
+        font-size: 16px;
+        border: 2px solid black;
+        height: 34px;
+        color: #000;
+        overflow:scroll;
+        appearance: none;
+        border-radius: 25px;
+        background: #f0bd00;
+      }

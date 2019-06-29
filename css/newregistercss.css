@@ -1,0 +1,76 @@
+label{
+	margin-left:5px;
+	margin:bottom:8px;
+}
+input[type=text], input[type=password],select,input[type=email],input[type=Date]{
+  padding: 10px;
+  width:95%;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom:20px;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+  }
+   input[type=text]:focus, input[type=password]:focus,select:focus,input[type=email]:focus,input[type=Date]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+.modal-content {
+  background-color: #fefefe;
+  opacity:0.95;
+  margin-top:40px;
+  margin-left:30px;
+  border: 1px solid #888;
+  border-radius: 10px;
+  width:80%;
+}
+hr {
+  border: 1px solid #f1f1f1;
+  margin-top: 10px;
+}
+button {
+  color: black;
+  padding: 14px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.7px;
+}
+
+button:hover {
+  opacity:1;
+}
+td{
+	margin-right:10px;
+	margin-left:10px;
+	width:50%;
+}
+h1{
+  color:red;
+  text-align:center;
+  margin:0 auto 0 auto;
+  padding:15px
+}
+.cover{
+  position:relative;
+  background-color: grey;
+  opacity:0.80;
+  width:96%;
+  height:13%;
+  border-radius:10px;
+  margin: 10px 10px 10px 10px;
+}
+p,a{
+	margin-left:10px;
+	font-size:15px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -1px;
+}
+

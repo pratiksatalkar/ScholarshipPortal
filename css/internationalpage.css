@@ -1,0 +1,84 @@
+.outerbox{
+	 border-top:5px;
+	 box-shadow:2px 0px  3px 1px #A6ACAF;
+}
+.quicksearchbox{
+	width:95%;
+	height:auto;
+	padding:20px;
+	margin-right:0px;
+	margin-top:20px;
+	border:2px;
+	box-shadow:-3px -3px 5px 2px #8888;
+}
+#nav-award-tab ul li.active a span{
+	diaplay:block;
+	height:40px;
+	padding:10px;
+	width:20px;
+}
+#nav-award-tab ul li.active a{
+	color:#383738;
+    font-family: 'Yanone Kaffeesatz', Arial, sans-serif;
+	font-size:24px;
+	text-shadow:1px 1px 1px #fff;
+	line-height: 37px;
+}
+.box8{
+	padding:20px;
+	margin-left:40px;
+	margin-top:20px;
+	border:2px;
+	box-shadow:3px -3px 5px 2px #8888;
+}
+.scholarshipbutton{
+	width:180px;
+	height:50px;
+	padding-bottom:3px;
+	padding-top: 3px;
+    text-align:center;
+	font-family:serif;
+	border:2px solid #8888;
+	box-shadow:3px 3px 5px 2px #8888;
+	border-radius:5px;
+}
+.quicksearchbutton{
+	width:100%;
+	height:55px;
+	padding-top:5px;
+	padding-bottom:4px;
+	text-align: center;
+	margin-bottom:20px;
+	font-family:serif;
+	border:2px solid #8888;
+	box-shadow:3px 3px 5px 2px #8888;
+	border-radius:5px;
+}
+.internationaloption{
+    background-color: #eee;
+}
+.internationalselect {
+        margin-right: 50px;
+        margin-bottom: 10px;
+        width: 150px;
+        padding: 5px 35px 5px 5px;
+        font-size: 16px;
+        border: 2px solid black;
+        height: 34px;
+        color: #000;
+        overflow:scroll;
+        appearance: none;
+        border-radius: 25px;
+        background: #f0bd00;
+      }
+
+
+
+
+.box1{
+	height: 500px;
+	overflow-y: scroll;
+}
+#intersearch{
+	width: 25%;
+}

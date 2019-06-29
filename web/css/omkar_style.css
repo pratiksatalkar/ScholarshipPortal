@@ -1,0 +1,88 @@
+.odometer_border .row .col-lg-4 {
+        border: 3px solid #ff5a00; 
+        border-radius: 50px; 
+        margin-top: 30px;
+        color: white;
+    }
+
+.odometer_border{
+	margin-left:  50px;
+	margin-right: 50px;
+	
+}
+
+
+.header_below_bg{
+	/*background-image: url(../images/hero.jpg);*/
+	background-color: orange;
+	color: white;
+	padding: 30px;
+}
+
+.web_name{
+	margin-top: 150px;
+	margin-bottom: 10px;
+	color: white;
+	text-align: center;
+}
+
+.just{
+	color: white;
+	text-align: center;
+}
+
+.description{
+	/*background-color: gray;*/
+	padding: 30px;
+	text-align: center;
+	margin-top: 0px;
+	color: #b7b7b7;
+	background: rgba(21,21,21,.9);
+}
+
+.statimg{
+	/*background: rgba(21,21,21,.9);*/
+	/* background-color: black; */
+	padding: 30px;
+}
+
+.statimg .row{
+	margin-top: 40px;
+	/*margin-left: 250px;*/
+}
+
+.statimg .row a{
+	/*margin-left: 90px;*/
+}
+figcaption{
+	color : #EAA54B;
+	font-size: 18px
+	border-bottom:1px solid black;
+	text-align: center;
+}
+
+a img{
+	border-radius: 5%;
+}
+
+  
+/* 
+a:hover  {
+    text-decoration: none;
+  }
+.row a img:hover{
+    border:0.5px solid #EAA54B;
+padding:3px;
+transition:all 0.1s ease-in;
+-ms-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+transform: scale(1.1); 
+} */
+
+
+
+body > div.statimg > div > div > a > div:hover
+{
+transform: scale(1.08);
+text-decoration: none;
+}

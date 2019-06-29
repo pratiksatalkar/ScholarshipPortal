@@ -1,0 +1,12 @@
+#cover{ 
+	  box-shadow:0 0 10px 1px #A6ACAF; 
+	  border:1px solid #A6ACAF;
+	  border-radius: 5px;
+	  margin-top:30px; 
+	  /*margin-left:245px;*/
+	  margin-bottom:30px;
+	  padding:10px;
+	  height: auto;
+	  background-color: white;
+	  text-align:left;
+	}

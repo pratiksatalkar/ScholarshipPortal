@@ -1,0 +1,24 @@
+.card{
+    height: auto;
+    min-height: 140px;
+    overflow: auto;
+    box-shadow:  3px 3px  8px 1px #A6ACAF;
+  border-radius: 7px;
+  padding: 5px 10px;
+  margin: 0px 5px 5px 0px;
+}
+.card-head{
+    color: #a914a9;
+    text-transform: initial;
+    font-size: 20px;
+    font-weight: 500;
+}
+#card-active{
+    border-left: 2px solid #eaeaea;
+    padding: 15px 0 13px 0;
+    height: auto;
+    min-height: 140px;
+    overflow: auto;
+}
+
+
